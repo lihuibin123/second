@@ -1,0 +1,15 @@
+
+2017/10/18
+    学习内容：
+        
+       GitHub上传项目：
+              1.在本地创建一个文件夹，进入到文件夹右键，git bash here;
+              2.git init 初始化本地目录，把本地目录变成仓库；
+              3.git status: 查看当前仓库状态
+	      4.Git add FileName: 添加文件文件到缓存区;
+	      5.git commit -m 'add message': 添加提交备注;
+	      6.Git remote add origin https://github.com/nocodenolife/···
+	      7.git push -u origin master 
+
+
+end...
